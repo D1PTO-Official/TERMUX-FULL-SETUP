@@ -7,7 +7,7 @@
 
 # TERMUX-FULL-SETUP
 
-`rm -rf TERMUX-FULL-SETUP`
+`pkg install git`
 
 `git clone https://github.com/D1PTO-Official/TERMUX-FULL-SETUP`
 
