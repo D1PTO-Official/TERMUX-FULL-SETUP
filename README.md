@@ -6,11 +6,11 @@
 
 # TERMUX-FULL-SETUP
 
-#*`pkg install git`
+`pkg install git`
 
-#*`git clone https://github.com/D1PTO-Official/TERMUX-FULL-SETUP`
+`git clone https://github.com/D1PTO-Official/TERMUX-FULL-SETUP`
 
-#*`cd TERMUX-FULL-SETUP`
+`cd TERMUX-FULL-SETUP`
 
-#*`bash Setup.sh`
+`bash Setup.sh`
 
