@@ -108,7 +108,8 @@ apt install curl -y
 apt install proot -y
 
 
-figlet -f slant 'MR.DIPTO' |lolcat
+figlet -f standard MR.DIPTO
+echo "IT'S A BRAND OKAY BBZ" |lolcat
 echo
 echo
 echo 
